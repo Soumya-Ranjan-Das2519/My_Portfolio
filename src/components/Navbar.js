@@ -110,9 +110,9 @@ export default function Navbar() {
       <Nav isScrolled={isScrolled}>
         <LogoContainer onClick={toggleModal}>
           <LogoImage src={logo} alt="Logo" />
-          <span>My Portfolio</span>
+          <span>SRD</span>
         </LogoContainer>
-
+q
         <Hamburger onClick={() => setIsOpen(!isOpen)}>
           <i className={isOpen ? "fas fa-times" : "fas fa-bars"}></i>
         </Hamburger>

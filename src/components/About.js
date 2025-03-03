@@ -1,7 +1,7 @@
 // src/components/About.js
 import React from "react";
 import styled from "styled-components";
-import profileImage from "../assets/soumya.jpg"; // Replace with your image path
+import profileImage from "../assets/the crown.jpg"; // Replace with your image path
 
 const AboutSection = styled.section`
   padding: 4rem 2rem;
